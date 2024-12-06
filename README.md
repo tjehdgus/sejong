@@ -5,9 +5,9 @@
 
 ## 📂 발표자료
 <img src="https://github.com/user-attachments/assets/ed81baf1-744b-46b6-ae15-393404f0fb4a" alt="수자원공사 공모전 프로젝트" width="500">
-[세종시 공모전 최종.pdf](https://github.com/user-attachments/files/18034190/default.pdf)
----
 
+프로젝트의 자세한 내용은 발표자료에서 확인할 수 있습니다:  
+[📂 발표자료 PDF](https://github.com/user-attachments/files/18034212/default.pdf)
 
 ## 프로젝트 개요
 세종시 공공 전기자전거 도입을 위한 거치대 최적 입지 선정을 주제로 한 프로젝트입니다. **세종시 공모전**에서 본선 진출의 성과를 거두었으며, Python을 활용한 데이터 분석과 머신러닝 기법을 사용하였습니다.
