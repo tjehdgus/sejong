@@ -1,8 +1,6 @@
 # 🚲 세종시 공모전 프로젝트
 
-![세종시 공모전](https://github.com/user-attachments/assets/your_image_url_here)
----
-
+<img src="https://github.com/user-attachments/assets/db7b5736-3f9a-4b9c-97fa-9340d0b68cc1" alt="수자원공사 공모전 프로젝트" width="500">
 ## 📂 발표자료
 <img src="https://github.com/user-attachments/assets/ed81baf1-744b-46b6-ae15-393404f0fb4a" alt="수자원공사 공모전 프로젝트" width="500">
 
