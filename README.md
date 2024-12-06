@@ -14,7 +14,7 @@
 
 - **주제**: 공공 전기자전거 도입을 위한 거치대 최적 입지 선정
 - **성과**: 본선 진출
-- **발표자료**: [세종시 공모전 발표자료 다운로드](https://github.com/tjehdgus/sejong/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- **발표자료**:(https://github.com/tjehdgus/sejong/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 ---
 
